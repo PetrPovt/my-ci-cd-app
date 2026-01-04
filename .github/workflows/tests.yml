@@ -1,6 +1,5 @@
 name: Test Python App
 
-
 on:
   push:
     branches: [ '*' ]
